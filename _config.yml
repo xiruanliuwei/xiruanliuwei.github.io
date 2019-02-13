@@ -4,10 +4,10 @@
 baseurl:
 url: http://mazhuang.org
 date_format: "ordinal"
-title: 九九叔
-subtitle: 九九叔的github之家
-description: 九九叔的github之家
-keywords: 九九叔, JiuJiuShu, jjslogin, JiuJiuShu
+title: Wei.Liu
+subtitle: Wei.Liu
+description: Wei.Liu
+keywords: Wei.Liu
 favicon: /favicon.ico
 timezone: Asia/Shenzhen
 encoding: "utf-8"
@@ -16,12 +16,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: JiuJiuShu
-organization: OPPO, Inc.
-organization_url: http://www.oppo.com
-github_username: wenfengtou
-location: Shenzhen, China
-email: qianmayi@gmail.com
+author: Wei.Liu
+organization: Nokia Inc.
+organization_url:
+github_username: xiruanliuwei
+location: Qingdao, China
+email: xiruanliuwei@163.com
 
 # ---------------- #
 #    Navigation    #
